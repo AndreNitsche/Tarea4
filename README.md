@@ -6,7 +6,7 @@ luego una concatenación de todas estas formas de onda.
 
 Lo primero es extraer los datos del archivo "bits10k.csv" y ingresarlos en un array. En seguida se definen valores importantes como el numero de bits, la frecuencia, el 
 perdiodo, la cantidad de puntos de muestreo por periodo. Despues de definir la onda portadora, podemos hacer la modulacion con una frecuencia de muestreo definida, siguiendo la 
-regla del BPSK (Binary Phase Shifting Key): con entrada binaria 0 se mantiene la fase de la portadora, y con entrada 1 se presenta un desface de 180°.
+regla del BPSK (Binary Phase Shifting Key): con entrada binaria 1 se mantiene la fase de la portadora, y con entrada 0 se presenta un desface de 180°.
 Se obtiene entonces de esta manera la forma de Tx.
 
 
