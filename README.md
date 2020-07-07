@@ -30,13 +30,21 @@ En este caso se usa el metodo de Welch para graficar la densidad espectral de po
 -Pregunta 5: Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
 
 En esta seccion se crea un vector nuevo de SNR's para obtener errores mas grandes. 
+
 Hay un total de 277 errores en 10000 bits para una tasa de error de 0.0277. SNR = -7 dB
+
 Hay un total de 184 errores en 10000 bits para una tasa de error de 0.0184. SNR = -6 dB
+
 Hay un total de 110 errores en 10000 bits para una tasa de error de 0.011. SNR = -5 dB
+
 Hay un total de 53 errores en 10000 bits para una tasa de error de 0.0053. SNR = -4 dB
+
 Hay un total de 24 errores en 10000 bits para una tasa de error de 0.0024. SNR = -3 dB
+
 Hay un total de 13 errores en 10000 bits para una tasa de error de 0.0013. SNR = -2 dB
+
 Hay un total de 3 errores en 10000 bits para una tasa de error de 0.0003. SNR = -1 dB
+
 Hay un total de 4 errores en 10000 bits para una tasa de error de 0.0004. SNR = 0 dB
 
 
